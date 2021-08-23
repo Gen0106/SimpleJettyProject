@@ -1,4 +1,4 @@
-# SimpleJettyProject
+# Simple Jetty Project
 
 This is a simple website project using jetty server.
 
