@@ -14,6 +14,7 @@ There are 2 ways to install the website.
   - Execute "docker-compose up" on the root directory of this project.
   
 You can see the website on http://localhost:8090/.
+
 Also, you can check the data on the task/data table of MySQL
   - you can use http://localhost/phpMyAdmin/ in the case of IDEA execution.
   - or you can use http://localhost:8091 in the case of Docker execution.
