@@ -17,4 +17,4 @@ You can see the website on http://localhost:8090/.
 
 Also, you can check the data on the task/data table of MySQL
   - You can use http://localhost/phpMyAdmin/ in the case of IDEA execution.
-  - Or you can use http://localhost:8091 in the case of Docker execution.
+  - Or you can use http://localhost:8091 in the case of Docker execution. (Username: root, Password: root)
