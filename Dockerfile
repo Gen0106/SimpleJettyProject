@@ -1,6 +1,5 @@
 FROM maven:3.5.2-jdk-8-alpine
 COPY pom.xml /usr/src/java-code/
-COPY jetty-project.iml /usr/src/java-code/
 COPY src /usr/src/java-code/src/
 WORKDIR /usr/src/java-code
 RUN mvn clean package
